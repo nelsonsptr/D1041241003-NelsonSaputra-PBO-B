@@ -1,6 +1,6 @@
 package Pertemuan9;
 
-/*  
+/*
     Nama : Nelson Saputra
     NIM : D1041241003
     Kelas : PBO B
@@ -8,7 +8,7 @@ package Pertemuan9;
 */
 
 class Mobil{
-    //Deklarasi variabel yang dipakai untuk class Mobil, default kecepatan adalah 0
+    //Deklarasi attribute yang dipakai untuk class Mobil, default kecepatan adalah 0
     String merk;
     String warna;
     int tahun;

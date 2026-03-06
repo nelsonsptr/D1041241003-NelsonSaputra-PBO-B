@@ -8,7 +8,7 @@ package Pertemuan9;
 */
 
 class Persegi{
-    //Deklarasi variabel yang ada di class Persegi
+    //Deklarasi attribute yang ada di class Persegi
     int sisi;
     int luas;
     int keliling;

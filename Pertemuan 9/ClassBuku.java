@@ -8,7 +8,7 @@ package Pertemuan9;
 */
 
 class Buku{
-    //Deklarasi Variabel Di Dalam Class
+    //Deklarasi Attribute Di Dalam Class
     String judul;
     String pengarang;
     int harga;
